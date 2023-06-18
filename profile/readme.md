@@ -1,1 +1,1 @@
-This is a test
+Hello! Welcome to Frederick's sandbox. All repos here are for my personal learning / development journey. There is nothing special and the repos might come and go at any moment. If there is anything caught your eyes, let's chat about it. Thanks for stopping by!
